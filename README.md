@@ -1,5 +1,5 @@
 
-# About me: 
+## About me: 
  - 🎓 I'm a Computer Science undergraduate at [AUEB](https://www.aueb.gr/)<br>
  - 🇬🇷 Based in Athens, Greece
  - 🌐 I also have a portfolio, [check it out ۶(◠ 。◠)۶](https://mihalisalexakos.com/)
